@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Aleena
 
-<!--
-**aleena263/aleena263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Frontend Developer || Aptech From Pakistan
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Practice projects 
+- 🌱 I’m currently learning: Backend Development  
+- 👯 I’m looking to collaborate on: Open-source web projects, Frontend or Full Stack ideas  
+- 🤝 I’m looking for help with: Understanding APIs and Database connections  
+- 💬 Ask me about: HTML, CSS, JavaScript, Bootstrap  
+- 😄 Pronouns: She/Her 
+- ⚡ Fun fact: I enjoy learning coding and I find it interesting ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Learning web development and improving my skills every day 💻🚀
