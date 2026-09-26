@@ -1,13 +1,15 @@
-👋 Hi, I'm Aleena
+👋 Hi, I'm Aleena Rizwan
+💻 Junior Web Developer | Aptech Student | Backend Development Learner
 
-A passionate Frontend Developer || Aptech From Pakistan
+I'm a passionate web developer from Pakistan who enjoys building websites, practicing new technologies, and continuously improving my development skills.
 
-- 🔭 I’m currently working on: Practice projects 
-- 🌱 I’m currently learning: Backend Development  
-- 👯 I’m looking to collaborate on: Open-source web projects, Frontend or Full Stack ideas  
-- 🤝 I’m looking for help with: Understanding APIs and Database connections  
-- 💬 Ask me about: HTML, CSS, JavaScript, Bootstrap  
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I enjoy learning coding and I find it interesting ⚡
+I started with frontend development and am now expanding my knowledge toward backend development, databases, and full-stack web development.
 
-✨ Learning web development and improving my skills every day 💻🚀
+🚀 About Me
+🔭 Currently working on Practice Projects & Web Applications
+🌱 Currently learning SQL Server Management Studio (SSMS)
+💻 Learning and practicing Backend Development
+🤝 Open to collaborating on Web Development & Open-Source Projects
+🎯 Goal: Become a Full-Stack Web Developer
+⚡ Fun fact: I enjoy learning new technologies and turning ideas into working projects.
+
