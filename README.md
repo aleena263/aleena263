@@ -24,7 +24,3 @@ I started my journey with frontend development and I'm currently expanding my kn
 **Database:** MySQL, SQL Server
 
 **Tools:** Git, GitHub, VS Code
-
-## 🏆 Achievements
-
-[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/aleena263?achievement=pull-shark&tab=achievements)
